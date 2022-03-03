@@ -1,3 +1,6 @@
 ﻿  pch.cpp
+  Core.cpp
   dllmain.cpp
+  Generating Code...
+     Creating library C:\Users\fjenk\source\repos\SoftwareArchMidterm\x64\Debug\Core.lib and object C:\Users\fjenk\source\repos\SoftwareArchMidterm\x64\Debug\Core.exp
   Core.vcxproj -> C:\Users\fjenk\source\repos\SoftwareArchMidterm\x64\Debug\Core.dll
