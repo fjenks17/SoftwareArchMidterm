@@ -1,3 +1,4 @@
-﻿  pch.cpp
+﻿C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Launcher.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  pch.cpp
   dllmain.cpp
-  Launcher.vcxproj -> C:\Users\fjenk\Source\Repos\SoftwareArchMidterm\source\repos\SoftwareArchMidterm\x64\Debug\Launcher.dll
+  Launcher.vcxproj -> C:\Users\fjenk\source\repos\SoftwareArchMidterm\x64\Debug\Application.dll
