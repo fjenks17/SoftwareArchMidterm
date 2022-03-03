@@ -1,3 +1,6 @@
 ﻿  pch.cpp
   dllmain.cpp
-  UI.vcxproj -> C:\Users\fjenk\Source\Repos\SoftwareArchMidterm\source\repos\SoftwareArchMidterm\x64\Debug\UI.dll
+  UI.cpp
+  Generating Code...
+     Creating library C:\Users\fjenk\source\repos\SoftwareArchMidterm\x64\Debug\UI.lib and object C:\Users\fjenk\source\repos\SoftwareArchMidterm\x64\Debug\UI.exp
+  UI.vcxproj -> C:\Users\fjenk\source\repos\SoftwareArchMidterm\x64\Debug\UI.dll
